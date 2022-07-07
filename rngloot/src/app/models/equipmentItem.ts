@@ -1,3 +1,3 @@
-class EquipmentItems {
+export class EquipmentItem {
     name: string;
 }

@@ -1,4 +1,4 @@
-class Equipment {
+export class Equipment {
     index: string;
     name: string;
     url: string;
