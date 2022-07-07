@@ -1,0 +1,3 @@
+class EquipmentItems {
+    name: string;
+}
