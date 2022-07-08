@@ -3,4 +3,4 @@ export class Equipment {
     name: string;
     url: string;
 
-}
+};
