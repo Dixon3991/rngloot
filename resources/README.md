@@ -9,15 +9,15 @@
 
 ### How-To
 **Step One:** Choose a font
-![Choose a font main menu screen](resources/images/google-font-menu.png)
+![Choose a font main menu screen](images/google-font-menu.png)
 
 
 **Step Two:** Select the desired styles
-![Details page](resources/images/google-font-roboto-detail.png)
+![Details page](images/google-font-roboto-detail.png)
 
 
 **Step Three:** Copy the `@import`
-![Import Link and Usage Example](resources/images/google-font-import-link-and-usage.png)
+![Import Link and Usage Example](images/google-font-import-link-and-usage.png)
 
 
 **Step Four:** Paste into `_variables.scss`
